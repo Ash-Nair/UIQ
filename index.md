@@ -50,7 +50,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
             var account_id = "ashwin"
             useriq.setSiteId(useriq_site_id)
             useriq.identify(user_id, {
-              user_name: 'ashwin',
+              user_name: 'useriq-unknown',
               account_id: account_id,
               account_name: 'ashwin',
               user_email: 'ashwin.nair@useriq.com',
